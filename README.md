@@ -26,4 +26,4 @@ Godot How to Make a Random Choice Function -- https://www.youtube.com/watch?v=Co
 None yet
 
 ## Created by
-Tea Held, Alex Kutza
+Tea Held, Alex Kutza, Charly coles
